@@ -1,15 +1,29 @@
-# Mulai dengan Bikin React App
+# Landing Page dengan React dan GSAP
 
-Proyek ini dibikin pake [Create React App](https://github.com/facebook/create-react-app).
+Selamat datang di proyek Landing Page menggunakan React dan GSAP untuk tugas Creativox!
+
+## Deskripsi
+
+![Landing Page Screenshot](screenshotLP.png)
+
+Proyek ini adalah sebuah landing page yang dibangun menggunakan React untuk struktur aplikasi. Tailwind CSS untuk styling, dan GSAP (GreenSock Animation Platform) untuk animasi yang halus dan menarik. Landing page ini dirancang untuk menarik perhatian pengguna dan menyampaikan informasi dengan cara yang menarik dan interaktif.
 
 ## Instalasi
 
-Di folder proyek, kamu bisa jalanin:
+Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
-### `npm install`
-install node modules nya
+1. **Clone repositori ini**:
+   ```sh
+   git clone https://github.com/alghifaryAR/landing-page.git
+   Masuk ke direktori proyek:
+   ```
 
-### `npm start`
+## Install dependensi:
 
-Nyalain aplikasi dalam mode pengembang.\
-Buka [http://localhost:3000](http://localhost:3000) buat liat di browser.
+## npm install
+
+Jalankan aplikasi:
+
+## npm start
+
+Aplikasi akan berjalan di http://localhost:3000.
