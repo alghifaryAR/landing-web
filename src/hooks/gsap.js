@@ -50,7 +50,7 @@ export const useGsapNavLinkReveal = (items, delay = 0) => {
         opacity: 0,
       },
       {
-        opacity: 1,
+        opacity: 1, // Mengatur opacity ke 1 agar gambar muncul
         duration: 2,
         delay,
         ease: "power4.out",
