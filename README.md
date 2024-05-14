@@ -17,7 +17,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
    git clone https://github.com/alghifaryAR/landingpage-web.git
    Masuk ke direktori proyek:
    ```
-
+Masuk ke direktori proyek:
 ## Install dependensi:
 
 ## npm install
