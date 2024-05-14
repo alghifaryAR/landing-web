@@ -14,10 +14,10 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 1. **Clone repositori ini**:
    ```sh
-   git clone https://github.com/alghifaryAR/landing-page.git
-   Masuk ke direktori proyek:
+   git clone https://github.com/alghifaryAR/landingpage-web.git
+   
    ```
-
+Masuk ke direktori proyek:
 ## Install dependensi:
 
 ## npm install
